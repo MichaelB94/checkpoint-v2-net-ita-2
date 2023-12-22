@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\checkpoint-v2-net-ita-2.props" />
+</Project>
